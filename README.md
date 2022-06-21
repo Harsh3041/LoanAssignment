@@ -29,4 +29,9 @@ bilities.
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
 
-<br>
+<img width="1440" alt<img width="1440" alt="Screenshot 2022-06-21 at 12 05 29 PM" src="https://user-images.githubusercontent.com/87407097/174732546-60b88b6f-54df-4787-a976-3ea76937a963.png">
+="Screenshot 2022-06-21 at 12 05 50 PM" src="https://user-images.githubusercontent.com/87407097/174732532-3625e0ba-b112-4e08-928a-06a8d78dc072.png">
+
+
+<img width="1440" alt="Screenshot 2022-06-21 at 12 05 09 PM" src="https://user-images.githubusercontent.com/87407097/174732593-fd6cf821-67a3-4cfd-9836-d55bbc796f11.png">
+
