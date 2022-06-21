@@ -1,6 +1,7 @@
 # LoanAssignment
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.6.
+This is a Loan Assignment Project which uses Angukar JS topics like Data binding, Routing and Directives.
 
 ## Development server
 
@@ -20,7 +21,8 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capa<img width="1439" alt="Screenshot 2022-06-21 at 11 36 47 AM" src="https://user-images.githubusercontent.com/87407097/174729401-77cf4642-32cc-4ce7-bb4c-98d51266dba0.png">
+bilities.
 
 ## Further help
 
